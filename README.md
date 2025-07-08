@@ -1,2 +1,2 @@
 # React-with-TypeScript
-earning how to use TypeScript with React
+Learning how to use TypeScript with React through a Twitter-like app.
